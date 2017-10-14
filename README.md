@@ -1,2 +1,3 @@
 # hello-world
-first created repos
+
+I want to design and write computer programs.
